@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on multi-agent systems with LangGraph (Think-Tank) and Graph-RAG tools like Repo-Lens and AskTube<br>👯 I'm looking to collaborate on open-source agentic AI and RAG projects<br>🤝 I'm looking for help with evaluating and scaling multi-agent workflows in production<br>🌱 I'm currently learning advanced agent orchestration, LLM evaluation, and system design<br>💬 Ask me about LangGraph, RAG pipelines, FastAPI, or competitive programming
+🔭 I'm currently working on multi-agent systems with LangGraph (Nexus) and Graph-RAG tools like RepoGraph and ClipChat<br>👯 I'm looking to collaborate on open-source agentic AI and RAG projects<br>🤝 I'm looking for help with evaluating and scaling multi-agent workflows in production<br>🌱 I'm currently learning advanced agent orchestration, LLM evaluation, and system design<br>💬 Ask me about LangGraph, RAG pipelines, FastAPI, or competitive programming
 
 
 ## 🌐 Socials:
